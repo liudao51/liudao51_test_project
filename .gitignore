@@ -1,0 +1,54 @@
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+.mvn
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Git submodule Files ###
+.gitmodules
+
+### nodejs ###
+node_modules
+
+### Mobile Tools for Java (J2ME) Files ###
+.mtj.tmp/
+
+### virtual machine crash logs Files ###
+hs_err_pid*
+
+### Project ###
+target
+*.class
+*.project
+*.settings
+*.classpath
+*.DS_store
+*.jar
+*.war
+*.ear
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
